@@ -1,17 +1,15 @@
 class SignupPage {
-  enterName(name) {
+  visit() {
+    cy.visit('https://glistening-gingersnap-7dec72.netlify.app/login.html');
+  }
+
+  fillSignupForm(name, email, password) {
     cy.get('#signup-name').type(name);
-  }
-
-  enterEmail(email) {
     cy.get('#signup-email').type(email);
-  }
-
-  enterPassword(password) {
     cy.get('#signup-password').type(password);
   }
 
-  clickSignup() {
+  submitSignup() {
     cy.get('#signup-submit').click();
   }
 }
