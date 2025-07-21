@@ -25,9 +25,6 @@ class CheckoutPage {
     cy.get('button.paynow').click();
   }
 
-  verifyPaymentSuccess() {
-    cy.contains('Thank you for your order').should('exist');
-  }
 }
 
 export default new CheckoutPage();
