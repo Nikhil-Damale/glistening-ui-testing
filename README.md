@@ -1,18 +1,46 @@
 # 🌐 E-Commerce Website - Cypress End-to-End Automation
 
-This repository contains Cypress-based end-to-end tests for the demo e-commerce website:  
-🔗 [https://glistening-gingersnap-7dec72.netlify.app](https://glistening-gingersnap-7dec72.netlify.app)
 
 ---
 
-## 📌 Project Overview
+###**Glistening UI Testing**
+**Repo:** [glistening-ui-testing](https://github.com/Nikhil-Damale/glistening-ui-testing)  
 
-The project covers:
-- ✅ Manual Testing Plan
-- 🤖 Automation using Cypress with Page Object Model (POM)
-- 🔐 Basic Security Testing Insights
+```markdown
+# ✨ Glistening UI Testing
 
----
+## 📌 Overview
+This project focuses on **UI testing** of the demo website [Glistening](https://glistening-gingersnap-7dec72.netlify.app/), covering manual + automation testing with professional documentation.
+
+## 🎯 Objectives
+- Ensure smooth **homepage, search, product, and cart workflows**.
+- Perform **validation testing** (40+ scenarios across modules).
+- Document **manual + automation test strategy**.
+
+## 🛠️ Tools & Technologies
+- Manual Testing (Functional, Regression, UI)
+- **Cypress** for automation
+- **Postman** for API validation
+- **JMeter** (Performance Testing)
+- GitHub for bug tracking
+
+## 🔎 Test Coverage
+- Homepage validations  
+- Search functionality  
+- Product details validation  
+- Cart operations  
+- Responsive & UI testing  
+
+## 🚀 How to Run (Automation)
+```bash
+# Clone repository
+git clone https://github.com/Nikhil-Damale/glistening-ui-testing
+
+# Install dependencies
+npm install
+
+# Run Cypress Tests
+npx cypress open
 
 ## 🛠️ Tech Stack
 
