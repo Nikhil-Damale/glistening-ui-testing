@@ -42,14 +42,5 @@ npm install
 # Run Cypress Tests
 npx cypress open
 
-## 🛠️ Tech Stack
 
-- [Cypress](https://www.cypress.io/) - End-to-End Test Framework  
-- JavaScript (ES6)  
-- Page Object Model (POM) structure  
-- GitHub for version control  
-
----
-
-## 📁 Project Structure
 
