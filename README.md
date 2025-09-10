@@ -1,46 +1,34 @@
-# 🌐 E-Commerce Website - Cypress End-to-End Automation
+✨ Glistening UI Testing  
+📌 Overview  
+This repository contains end-to-end testing for the Glistening eCommerce website covering manual testing and automation test cases.  
 
+🎯 Objectives  
+- Validate core UI functionalities such as Homepage, Search, Product Details, and Cart.  
+- Ensure proper UI/UX validation including responsiveness and form validations.  
+- Maintain well-documented test cases, bug reports, and testing summary.  
 
----
+🛠️ Tools & Technologies  
+- Manual Testing (Functional, Regression, UI, Responsive)  
+- Cypress (Automation Framework with POM)  
+- JavaScript / Node.js  
+- Test Documentation (Test Plan, Scenarios, Bug Reports)  
+- GitHub for version control  
 
-###**Glistening UI Testing**
-**Repo:** [glistening-ui-testing](https://github.com/Nikhil-Damale/glistening-ui-testing)  
+🔎 Test Coverage  
+- Homepage UI Validation  
+- Search Functionality  
+- Product Details Page  
+- Cart Operations  
+- Responsive & Validation Testing  
+- Bug Reporting  
 
-```markdown
-# ✨ Glistening UI Testing
-
-## 📌 Overview
-This project focuses on **UI testing** of the demo website [Glistening](https://glistening-gingersnap-7dec72.netlify.app/), covering manual + automation testing with professional documentation.
-
-## 🎯 Objectives
-- Ensure smooth **homepage, search, product, and cart workflows**.
-- Perform **validation testing** (40+ scenarios across modules).
-- Document **manual + automation test strategy**.
-
-## 🛠️ Tools & Technologies
-- Manual Testing (Functional, Regression, UI)
-- **Cypress** for automation
-- **Postman** for API validation
-- **JMeter** (Performance Testing)
-- GitHub for bug tracking
-
-## 🔎 Test Coverage
-- Homepage validations  
-- Search functionality  
-- Product details validation  
-- Cart operations  
-- Responsive & UI testing  
-
-## 🚀 How to Run (Automation)
+🚀 How to Run (Automation)  
 ```bash
-# Clone repository
-git clone https://github.com/Nikhil-Damale/glistening-ui-testing
+# Clone repository  
+git clone https://github.com/Nikhil-Damale/glistening-ui-testing  
 
-# Install dependencies
-npm install
+# Install dependencies  
+npm install  
 
-# Run Cypress Tests
-npx cypress open
-
-
-
+# Run Cypress Tests  
+npx cypress open  
