@@ -1,34 +1,35 @@
-✨ Glistening UI Testing  
-📌 Overview  
-This repository contains end-to-end testing for the Glistening eCommerce website covering manual testing and automation test cases.  
+# ✨ Glistening UI Testing
 
-🎯 Objectives  
-- Validate core UI functionalities such as Homepage, Search, Product Details, and Cart.  
-- Ensure proper UI/UX validation including responsiveness and form validations.  
-- Maintain well-documented test cases, bug reports, and testing summary.  
+## 📌 Overview
+This repository contains **end-to-end testing** for the Glistening eCommerce website covering both **manual testing** and **automation test cases**.
 
-🛠️ Tools & Technologies  
-- Manual Testing (Functional, Regression, UI, Responsive)  
-- Cypress (Automation Framework with POM)  
-- JavaScript / Node.js  
-- Test Documentation (Test Plan, Scenarios, Bug Reports)  
-- GitHub for version control  
+## 🎯 Objectives
+- Validate core UI functionalities like Homepage, Search, Product Details, and Cart.
+- Ensure **UI/UX validation** including responsiveness and form validations.
+- Maintain **detailed test documentation** with test plans, test cases, and bug reports.
 
-🔎 Test Coverage  
-- Homepage UI Validation  
-- Search Functionality  
-- Product Details Page  
-- Cart Operations  
-- Responsive & Validation Testing  
-- Bug Reporting  
+## 🛠️ Tools & Technologies
+- Manual Testing (Functional, Regression, UI, Responsive)
+- **Cypress** (Automation Framework with POM)
+- **JavaScript / Node.js**
+- Test Documentation (Test Plan, Scenarios, Bug Reports)
+- GitHub for version control
 
-🚀 How to Run (Automation)  
+## 🔎 Test Coverage
+- **Homepage UI Validation**
+- **Search Functionality**
+- **Product Details Page**
+- **Cart Operations**
+- **Responsive & Validation Testing**
+- **Bug Reporting**
+
+## 🚀 How to Run (Automation)
 ```bash
-# Clone repository  
-git clone https://github.com/Nikhil-Damale/glistening-ui-testing  
+# Clone repository
+git clone https://github.com/Nikhil-Damale/glistening-ui-testing
 
-# Install dependencies  
-npm install  
+# Install dependencies
+npm install
 
-# Run Cypress Tests  
-npx cypress open  
+# Run Cypress Tests
+npx cypress open
