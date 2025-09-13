@@ -39,4 +39,4 @@ It combines **manual and automated testing** to deliver a seamless shopping expe
 
 ## 👨‍💻 Author
 **Nikhil Damale**  
-📧 damalenikhil3@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/feed/) | 💻 [GitHub](https://github.com/Nikk87)
+📧 damalenikhil3@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/feed/) | 💻 [GitHub](https://github.com/Nikhil-Damale)
