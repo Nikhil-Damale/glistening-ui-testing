@@ -1,14 +1,8 @@
-
----
-
-### 🔵 3. Glistening UI Testing (Storytelling Style)
-
-```markdown
 # ✨ Glistening UI Testing
 
-## 🔎 Problem
-Modern eCommerce websites face challenges in **UI consistency, responsiveness, and functionality testing**.  
-The **Glistening UI project** was created to address these challenges using a mix of manual and automated testing.
+## 📖 Overview
+The **Glistening UI project** focuses on testing an eCommerce platform to ensure **UI consistency, responsiveness, and functional accuracy**.  
+It combines **manual and automated testing** to deliver a seamless shopping experience.
 
 ---
 
@@ -23,9 +17,9 @@ The **Glistening UI project** was created to address these challenges using a mi
 ---
 
 ## 🏆 Results
-- Ensured **smooth shopping experience** across devices.
-- Detected **UI inconsistencies & functional bugs**.
-- Automated regression suite reduced testing time significantly.
+- Ensured **smooth shopping experience** across devices.  
+- Detected **UI inconsistencies & functional bugs**.  
+- Automated regression suite reduced testing time significantly.  
 
 ---
 
@@ -37,9 +31,9 @@ The **Glistening UI project** was created to address these challenges using a mi
 ---
 
 ## ⚙️ Tools
-- Manual Testing
-- Cypress (Automation)
-- Page Object Model (POM)
+- Manual Testing  
+- Cypress (Automation)  
+- Page Object Model (POM)  
 
 ---
 
